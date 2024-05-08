@@ -55,3 +55,11 @@ body {
 	background-color: #04aa6d;
 	color: white;
 }
+
+/*Services */
+
+.serviceList {
+	padding-top: 2em;
+	text-align: center;
+	text-decoration: none;
+}
